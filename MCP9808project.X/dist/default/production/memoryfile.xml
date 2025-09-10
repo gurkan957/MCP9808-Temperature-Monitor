@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/MCP9808project.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>396</used>
+      <free>15988</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>115554</length>
+      <used>33522</used>
+      <free>82032</free>
+    </memory>
+  </executable>
+</project>

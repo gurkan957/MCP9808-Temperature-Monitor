@@ -1,0 +1,3 @@
+include ve src --> Makroları çalıştırmak için gerekli olan dosyalar
+
+p33EP128GP502_application.gld --> Bootloader ile programlamada kullanılacak .hex dosyası bu linker dosyasıyla oluşturulur.
