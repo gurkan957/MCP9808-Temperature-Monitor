@@ -146,9 +146,9 @@ MCP9808project.X/
 
 ## Documentation
 
-- **[Hardware Setup Guide](docs/HARDWARE_SETUP.md)** - Detailed hardware connections and assembly
-- **[Circuit Schematics](docs/SCHEMATIC.md)** - Complete circuit diagrams and PCB layout
-- **[Code Structure](docs/CODE_STRUCTURE.md)** - Detailed code documentation and architecture
+- **Hardware Setup Guide** - Detailed hardware connections and assembly
+- **Circuit Schematics** - Complete circuit diagrams and PCB layout
+- **Code Structure** - Detailed code documentation and architecture
 
 ## License
 
@@ -162,3 +162,4 @@ Feel free to submit issues, feature requests, or pull requests to improve this p
 
 - PIC24 support library by Robert B. Reese, Bryan A. Jones, and J. W. Bruce
 - MCP9808 datasheet and application notes from Microchip Technology
+
